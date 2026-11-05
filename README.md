@@ -1,64 +1,74 @@
-# 🏎️ Análise de Dados de Telemetria — Simulador de Corrida
+# 📊 Desafios Técnicos — Bootcamp de Análise de Dados | Generation Brasil
 
-## 📌 Sobre o projeto
+## 👩‍💻 Sobre o repositório
 
-Este projeto foi desenvolvido como parte das atividades práticas do **Bootcamp de Análise de Dados da Generation Brasil**.
+Este repositório reúne os desafios técnicos desenvolvidos ao longo do **Bootcamp de Análise de Dados da Generation Brasil**.
 
-O tema escolhido foi **Telemetria Esportiva**, utilizando como cenário um simulador de corridas online, com dados fictícios de pilotos cadastrados e seu desempenho volta a volta em diferentes corridas.
+O objetivo é documentar minha evolução durante a formação, colocando em prática os conhecimentos adquiridos em cada etapa, por meio de exercícios e projetos envolvendo programação, manipulação de dados, análise e ferramentas do ecossistema de dados.
 
-A proposta é trabalhar com dados relacionados ao automobilismo, explorando informações que permitem estruturar uma base de dados voltada à análise de desempenho esportivo.
+Os desafios serão adicionados gradualmente, conforme forem desenvolvidos e concluídos.
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
-Desenvolver uma base de dados estruturada a partir de dados simulados, utilizando Python para gerar registros fictícios e integrando o processo ao Google Sheets por meio de API.
+- Aplicar na prática os conhecimentos adquiridos durante o bootcamp;
+- Desenvolver habilidades técnicas em Análise de Dados;
+- Trabalhar com diferentes fontes e estruturas de dados;
+- Praticar programação e manipulação de dados;
+- Construir um portfólio com projetos práticos;
+- Documentar minha evolução profissional na área de Dados.
 
-O cenário permite explorar informações como:
+## 📚 Desafios desenvolvidos
 
-- Cadastro e identificação de pilotos;
-- Equipes e nacionalidades;
-- Corridas e participação dos pilotos;
-- Desempenho individual por volta;
-- Tempo de volta e consistência;
-- Consumo de combustível.
+| Desafio | Projeto | Descrição | Status |
+|---|---|---|---|
+| 01 | 🏎️ Telemetria de Corridas | Criação de uma base de dados fictícia de pilotos e desempenho volta a volta em um simulador de corridas online. | ✅ Concluído |
+| 02 | Em desenvolvimento | Aguardando desenvolvimento do próximo desafio. | ⏳ Pendente |
+| 03 | Em desenvolvimento | Aguardando desenvolvimento do próximo desafio. | ⏳ Pendente |
 
-## 🛠️ Tecnologias utilizadas
+## 🏎️ Desafio 01 — Telemetria de Corridas
 
-- **Python:** geração e organização dos dados fictícios.
-- **Google Colab:** ambiente de desenvolvimento e execução do código.
-- **Google Sheets:** armazenamento e visualização dos registros.
-- **Google Sheets API:** integração entre Python e Google Sheets.
-- **Google Drive API:** suporte à integração com os serviços do Google.
+**Tema:** Dados de telemetria de um simulador de corrida online.
 
-## ⚙️ Desenvolvimento
+O projeto utiliza um cenário de automobilismo virtual para estruturar uma base de dados fictícia com informações de pilotos, equipes, corridas e desempenho individual por volta.
 
-O projeto foi desenvolvido seguindo as orientações do primeiro desafio técnico do bootcamp, contemplando as seguintes etapas:
+A proposta é trabalhar com dados que podem apoiar análises de desempenho, como tempo de volta, consistência dos pilotos e consumo de combustível.
 
-1. Escolha e definição do tema de dados;
-2. Estruturação das informações conforme o esquema proposto;
-3. Criação de dados fictícios para simular o cenário;
-4. Desenvolvimento de funções em Python para geração dos registros;
-5. Configuração da autenticação e integração com Google Sheets;
-6. Envio dos dados para a planilha por meio da API;
-7. Organização e validação da base gerada.
+**Tecnologias utilizadas:**
+- Python
+- Google Colab
+- Google Sheets
+- Google Sheets API
+- Google Drive API
 
-## 📊 Contexto dos dados
+**Principais atividades:**
+- Definição do cenário e estrutura dos dados;
+- Geração de registros fictícios utilizando Python;
+- Organização das informações;
+- Integração com Google Sheets por meio de API;
+- Envio e armazenamento dos dados gerados.
 
-A base representa um ambiente de corridas virtuais, permitindo relacionar informações dos pilotos com seus respectivos desempenhos nas corridas.
+<text>📂 **Acesse os arquivos:** </text> [Desafios no GitHub](https://github.com/victoriavieira10/Desafios/tree/main)
 
-Os registros são simulados e possuem finalidade exclusivamente educacional, não representando telemetria real ou resultados oficiais de competições.
+## 🛠️ Tecnologias e ferramentas
 
-## 📚 Contexto acadêmico
+As ferramentas serão atualizadas conforme novos desafios forem desenvolvidos.
 
-**Instituição:** Generation Brasil  
-**Formação:** Bootcamp de Análise de Dados  
-**Atividade:** Desafio Técnico 01 — Preparação e estruturação de dados.
+- Python
+- Google Colab
+- Google Sheets
+- SQL
+- Excel
+- Power BI
+- Git e GitHub
 
-Desafio proposto: [Guia do Projeto 01 — Analista de Dados](https://github.com/rafaelq80/desafios_tecnicos_ad/blob/01_Bases/Guia_Desafio1_Google_Colab.md)
+## 🎓 Formação
 
-## 👩‍💻 Autoria
+**Bootcamp de Análise de Dados — Generation Brasil**
 
-**Victoria Vieira**
+Este repositório faz parte da jornada prática de aprendizado durante a formação, reunindo os exercícios e desafios técnicos propostos ao longo do programa.
 
-Projeto desenvolvido para fins educacionais, como parte da jornada de aprendizado em Análise de Dados na Generation Brasil.
+Agradeço aos instrutores **Rafael e Carrie** pelo conhecimento compartilhado, orientação e apoio durante essa jornada.
 
-Agradeço aos instrutores **Rafael e Carrie** pela orientação, pelo compartilhamento de conhecimento e pelo acompanhamento durante essa etapa do bootcamp.
+---
+
+📌 *Repositório em constante evolução. Novos desafios serão adicionados conforme o avanço da formação.*
